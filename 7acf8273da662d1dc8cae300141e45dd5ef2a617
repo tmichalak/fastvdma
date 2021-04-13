@@ -1,0 +1,26 @@
+{
+    "readmes": [
+      "{REPO_NAME}/README.md"
+    ],
+    "license": "Apache-2.0",
+    "license_file": "LICENSE.md",
+    "title": "Project Name",
+    "abstract": "<p>This is a short\nmultiline project description.</p>\n",
+    "tags": [
+      "Placeholder tag 0",
+      "Placeholder tag 1",
+      "Placeholder tag 2"
+    ],
+    "www": "https://www.project-website.io",
+    "categories": [],
+    "logo1": "",
+    "logo2": "",
+    "creation_date": "2021-02-22",
+    "contributors_count": 120,
+    "languages": {
+      "markdown": 0.5,
+      "c": 0.5
+    },
+    "images": [],
+    "remote_images": []
+}
